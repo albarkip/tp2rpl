@@ -1,0 +1,13 @@
+.app{
+    
+    background-color : lightblue;
+}
+
+.wrapper{
+    margin-top: 70%;
+    margin-bottom: 100%;
+}
+
+.warning{
+    display: none;
+}
